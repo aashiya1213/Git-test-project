@@ -1,2 +1,1 @@
-I study ICT in Turku AMK.
-Hello from main branch
+I study ICT in Turku AMK.(feature version)
