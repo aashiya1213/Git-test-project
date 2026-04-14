@@ -1,1 +1,2 @@
 I study ICT in Turku AMK.
+This is new code added in my feature branch.
