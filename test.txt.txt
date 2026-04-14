@@ -1,2 +1,2 @@
-I study ICT in Turku AMK.
+I study ICT in Turku AMK.(main version)
 This is new code added in my feature branch.
